@@ -6,7 +6,7 @@
   <br/>
 
   <!-- Social Badges -->
-  <a href="[https://linkedin.com/in/alejandroduke](https://www.linkedin.com/in/coldex-co/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/coldex-co/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alejandrinoduke@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://shosocials.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 
@@ -23,7 +23,7 @@
 
 ### 💡 Executive Summary (For Analysts & Technical Recruiters)
 
-> **Full Stack Engineer & Computer Science Student.** Specialized in **scalable web architectures, modern frontend development (React, Vite, Tailwind), backend APIs (Python/FastAPI), neuroevolution AI models, and cybersecurity auditing (Kali Linux).** 
+> **Full Stack Engineer & Computer Science Student.** Specialized in **scalable web architectures, modern frontend development (React, Vite, Tailwind), backend APIs (Kotlin/Spring Boot, Python/FastAPI), neuroevolution AI models, and cybersecurity auditing (Kali Linux).** 
 >
 > Focused on clean architecture, technical efficiency, performance optimization, and delivering reliable software for high-impact commercial or analytical platforms.
 
@@ -33,10 +33,10 @@
 
 | Category | Focus Area |
 | :--- | :--- |
-| 🔭 **Current Focus** | DevSecOps Tools, Full Stack Web Architecture & Penetration Testing |
+| 🔭 **Current Focus** | DevSecOps Tools, Multi-Tenant SaaS & Penetration Testing |
 | 🌱 **Learning Path** | Cyber Security & Vulnerability Assessment (TryHackMe & Kali Linux) |
-| 🤝 **Collaboration** | High-impact projects (Startups, DevSecOps Tooling, and Custom SaaS) |
-| 💬 **Primary Stack** | React, Vite, Tailwind CSS, Python (FastAPI/AI), Node.js & Kali Linux |
+| 🤝 **Collaboration** | High-impact projects (Startups, Enterprise Backends, and Custom SaaS) |
+| 💬 **Primary Stack** | Kotlin, Spring Boot, React, Vite, Tailwind CSS, Python (FastAPI/AI) & Kali Linux |
 | ⚡ **Mindset** | *"Constant innovation, relentless code refactoring, and continuous learning."* |
 
 ---
@@ -54,6 +54,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
   #### **Backend & Databases**
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -78,10 +80,10 @@
 | Project | Description / Technical Highlights | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 🛡️ **Devs-Guard** | DevSecOps security tool designed to scan project dependency trees and detect known CVE vulnerabilities in real-time. | `Python` `Security` `CLI/API` | [Repository](https://github.com/AlejandroDukesini/devs-guard) |
+| 🍽️ **Restaurant Reservations** | Multi-tenant platform featuring automated website generation for individual restaurants and reservation management. | `Kotlin` `Spring Boot` `REST API` | [Repository](https://github.com/AlejandroDukesini/Restaurant_reservations) |
 | 🧠 **Snake AI Neuroevolution** | Autonomous AI simulation training neural networks via genetic algorithms to optimize gameplay strategies. | `Python` `React` `Vite` | [Repository](https://github.com/AlejandroDukesini/AI-Snake) |
 | 🚗 **Casa Renault Platform** | Optimized commercial web application with secure API integrations, CORS handling, and production readiness. | `FastAPI` `React` `Tailwind` | [Repository](https://github.com/AlejandroDukesini/Casa-Renault) |
 | 🃏 **Valinor Ludoteca** | Dynamic event calendar and tailored e-commerce platform built for a tabletop gaming business. | `React` `Vite` `Tailwind` | [Repository](https://github.com/AlejandroDukesini/Ludoteca-Valinor) |
-| 🤖 **Discord Multi-AI Bot** | Multi-provider real-time bot integrating OpenAI, Gemini, and Grok APIs for custom text and image generation. | `Python` `Asyncio` `REST APIs` | [Repository](https://github.com/AlejandroDukesini/Discord-Multi-AI-Bot) |
 | 🔍 **Pentesting & Security Auditing** | Practical security environments and bash/python scripts for network analysis and vulnerability auditing. | `Kali Linux` `Bash` `Python` | [Repository](https://github.com/AlejandroDukesini/Pentesting-Labs-Kali) |
 
 ---
