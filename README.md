@@ -18,10 +18,6 @@
     <img src="https://komarev.com/ghpvc/?username=alejandrodukesini&label=Profile%20Views&color=00f5d4&style=for-the-badge" alt="Views" />
   </p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alejandrodukesini&theme=onedark&column=6&margin-w=10" alt="Trophies" width="90%" />
-  </a>
-
 </div>
 
 ---
@@ -38,10 +34,10 @@
 
 | Category | Focus Area |
 | :--- | :--- |
-| 🔭 **Current Focus** | Full Stack Web Architecture & Penetration Testing |
+| 🔭 **Current Focus** | DevSecOps Tools, Full Stack Web Architecture & Penetration Testing |
 | 🌱 **Learning Path** | Cyber Security & Vulnerability Assessment (TryHackMe & Kali Linux) |
-| 🤝 **Collaboration** | High-impact projects (Startups, Hackathons, and Custom SaaS) |
-| 💬 **Primary Stack** | React, Vite, Tailwind CSS, Python (FastAPI/AI), Java & Kali Linux |
+| 🤝 **Collaboration** | High-impact projects (Startups, DevSecOps Tooling, and Custom SaaS) |
+| 💬 **Primary Stack** | React, Vite, Tailwind CSS, Python (FastAPI/AI), Node.js & Kali Linux |
 | ⚡ **Mindset** | *"Constant innovation, relentless code refactoring, and continuous learning."* |
 
 ---
@@ -61,6 +57,7 @@
   #### **Backend & Databases**
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -81,24 +78,18 @@
 
 | Project | Description / Technical Highlights | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
+| 🛡️ **Devs-Guard** | DevSecOps security tool designed to scan project dependency trees and detect known CVE vulnerabilities in real-time. | `Python` `Security` `CLI/API` | [Repository](https://github.com/AlejandroDukesini/devs-guard) |
 | 🧠 **Snake AI Neuroevolution** | Autonomous AI simulation training neural networks via genetic algorithms to optimize gameplay strategies. | `Python` `React` `Vite` | [Repository](https://github.com/AlejandroDukesini/AI-Snake) |
 | 🚗 **Casa Renault Platform** | Optimized commercial web application with secure API integrations, CORS handling, and production readiness. | `FastAPI` `React` `Tailwind` | [Repository](https://github.com/AlejandroDukesini/Casa-Renault) |
 | 🃏 **Valinor Ludoteca** | Dynamic event calendar and tailored e-commerce platform built for a tabletop gaming business. | `React` `Vite` `Tailwind` | [Repository](https://github.com/AlejandroDukesini/Ludoteca-Valinor) |
 | 🤖 **Discord Multi-AI Bot** | Multi-provider real-time bot integrating OpenAI, Gemini, and Grok APIs for custom text and image generation. | `Python` `Asyncio` `REST APIs` | [Repository](https://github.com/AlejandroDukesini/Discord-Multi-AI-Bot) |
-| 🛒 **UTP Campus Market** | Mobile-first campus e-commerce layout tailored for academic community interaction and modular scalability. | `React` `JavaScript` `Tailwind` | [Repository](https://github.com/AlejandroDukesini/UTP-Campus-Market) |
-| 🛡️ **Pentesting & Security Auditing** | Practical security environments and bash/python scripts for network analysis and vulnerability auditing. | `Kali Linux` `Bash` `Python` | [Repository](https://github.com/AlejandroDukesini/Pentesting-Labs-Kali) |
+| 🔍 **Pentesting & Security Auditing** | Practical security environments and bash/python scripts for network analysis and vulnerability auditing. | `Kali Linux` `Bash` `Python` | [Repository](https://github.com/AlejandroDukesini/Pentesting-Labs-Kali) |
 
 ---
 
 ### 📊 GitHub Metrics & Activity
 
 <div align="center">
-
-  <!-- GitHub Stats & Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlejandroDukesini&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDukesini&layout=compact&theme=tokyonight&hide=html,css" />
-
-  <br/><br/>
 
   <!-- Custom GitHub Streak Stat -->
   <a href="https://git.io/streak-stats">
@@ -112,5 +103,5 @@
 <div align="center">
   <p><i>"Any sufficiently advanced technology is indistinguishable from magic."</i></p>
 
-  ⭐ **Feel free to explore my repositories or get in touch for collaborations.**
+  **Feel free to explore my repositories or get in touch for collaborations.**
 </div>
