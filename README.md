@@ -619,8 +619,7 @@ Engineering · Continuous Learning · Software Development · Continuous Improve
 ---
 
 ## 06. EDUCATION & CONTINUOUS LEARNING
-
-<img src="/assets/universidad.png" alt="Quindío's University">
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/f1646851-7579-4d7c-9803-cbc7e22b4c0d" />
 
 ## 07. CONTACT & COLLABORATION
 
