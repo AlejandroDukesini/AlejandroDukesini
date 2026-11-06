@@ -531,88 +531,27 @@ Additional repositories, experiments and technical explorations.
 | Data ownership | Local-first design where appropriate |
 
 ---
-
 ## 05. GITHUB ANALYTICS
 
 <div align="center">
 
-<a href="https://github.com/AlejandroDukesini">
-  <img
-    src="./assets/github-analytics-dashboard.png"
-    alt="GitHub Analytics Dashboard - Alejandro Dukesini"
-    width="100%"
-  />
-</a>
+### CONTRIBUTION STREAK
+
+<sub>Consistency · Development activity · Continuous improvement</sub>
 
 <br/>
 
-<sub>
-Engineering · Continuous Learning · Software Development · Continuous Improvement
-</sub>
-
-</div>
-
----
-
-### LIVE GITHUB STATISTICS
-
-<div align="center">
-
 <a href="https://github.com/AlejandroDukesini">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AlejandroDukesini&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-</a>
-
-<a href="https://github.com/AlejandroDukesini">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDukesini&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Most Used Programming Languages"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/AlejandroDukesini">
-  <img
-    src="https://streak-stats.demolab.com?user=AlejandroDukesini&theme=github-dark-blue&hide_border=true&timezone=America%2FBogota"
-    width="75%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDukesini&theme=dark&hide_border=true&background=0D1117&ring=58D6A5&fire=58A6FF&currStreakLabel=58D6A5"
+    width="100%"
     alt="GitHub Contribution Streak"
   />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/AlejandroDukesini">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AlejandroDukesini&bg_color=0D1117&color=8B949E&line=58D6A5&point=58D6A5&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/AlejandroDukesini">
-  <img
-    src="./profile-3d-contrib/profile-season-animate.svg"
-    width="100%"
-    alt="3D GitHub Contribution Calendar"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-**CONTINUOUS IMPROVEMENT**
-
-<sub>Understand · Design · Build · Secure · Validate · Optimize · Improve</sub>
+<sub>LEARN · BUILD · SECURE · VALIDATE · IMPROVE</sub>
 
 </div>
 
